@@ -1,0 +1,37 @@
+body{
+    background-color: whitesmoke;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#film_data{
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(2, 0, 3);
+    color: aliceblue;
+    border-radius: 5%;
+}
+#director{
+    text-decoration: none;
+    color: aquamarine;
+}
+#button{
+    text-decoration: none;
+    color: rgb(142, 8, 8);
+    font-size: x-large;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    opacity: 1.0;
+}
